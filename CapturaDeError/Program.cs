@@ -1,5 +1,5 @@
 ﻿using System;
-//1.0
+
 
 namespace CapturaDeError
 {
